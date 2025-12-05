@@ -41,4 +41,6 @@ Learner Account Limitations Auto-deletion: Resources automatically terminated af
 
 Repository Structure text
 
-slab-ai-v2/ ├── .github/workflows/ # CI/CD pipelines ├── infrastructure/ # Terraform code ├── backend/ # Node.js microservices ├── frontend/ # React application ├── docs/ # Architecture diagrams └── scripts/ # Deployment utilities GitHub Repository: https://github.com/Kartik27baliyan/Slab.ai-EdTech-platform
+slab-ai-v2/ ├── .github/workflows/ # CI/CD pipelines ├── infrastructure/ # Terraform code ├── backend/ # Node.js 
+microservices ├── frontend/ # React application ├── docs/ # Architecture diagrams └── scripts/ # Deployment utilities
+GitHub Repository: https://github.com/vishal-user/slab-ai-capstone.git
